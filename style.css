@@ -1,0 +1,52 @@
+header.centrado{
+    text-align: center;
+    background-color: skyblue;
+}
+
+section.centro{
+    text-align: center;
+}
+img.valencia{
+    opacity: 1.0;
+}
+img.valencia:hover{
+    opacity: 0.5;
+}
+hr.azul{
+    
+    background-color: blue;
+}
+
+div.cen{
+    text-align: center;
+}
+a.colo{
+    text-decoration-line: none;
+    color: black
+    
+}
+a.colo:hover{
+    font-weight: bold;
+    background-color: skyblue
+}
+section.imagen{
+    width: 1000px;
+    height: 360px;
+background-image: url(img/valencia_antigua.jpg);
+background-repeat: repeat;
+color: blue;
+border: black 3px solid;
+font-weight: bold
+}
+div.centro{
+    text-align: center;
+    background-color: skyblue;
+}
+hr.A{
+    width: 60%;
+
+}
+hr.B{
+    width: 60%;
+    color: rgb(194, 186, 186);
+}
